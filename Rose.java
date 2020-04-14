@@ -3,6 +3,8 @@ public class Rose {
         System.out.println("123");
         System.out.println("321");
         System.out.println("asd");
-        System.out.println("asd");
+
+
+
     }
 }
